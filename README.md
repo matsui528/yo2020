@@ -4,6 +4,7 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 
 ## 講義で今後も続けてほしいところ
 - Q&Aをあとからウェブに記載
+- 課題のgit管理
 
 ## 講義で改善すべきところ
 - 宿題のタイポが多い
@@ -26,6 +27,7 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 
 ## 自分の環境自慢
 - Win10 + WSL2 + Windows Terminal。シェルはfish on byobu. 開発はVSCode + Remote dev
+- Ubuntu 20.04。neovim
 
 ## 雑談・情報共有
 - 家の近所のラーメン屋が閉店してしまって悲しい
