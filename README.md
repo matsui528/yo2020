@@ -34,4 +34,4 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 - Win10 + WSL2 + Windows Terminal。シェルはfish on byobu. 開発はVSCode + Remote dev
 
 ## 雑談・情報共有
-- 家の近所のラーメン屋が閉店してしまって悲しい
+- 最近は勉強ばっかでしんどいです
