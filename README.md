@@ -33,8 +33,8 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 - もう大学には行きたくない
 - みんなに会いたい
 - 辛いです
-
-
+- ソフ1の授業をハイブリッドにしてほしかった
+- 実家楽
 
 ## 自分の環境自慢
 - Win10 + WSL2 + Windows Terminal。シェルはfish on byobu. 開発はVSCode + Remote dev
