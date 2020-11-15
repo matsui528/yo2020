@@ -7,6 +7,7 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 - 授業中に質問を答えてくれること
 - 授業中の学生目線の雑談
 - Q&Aをあとからウェブに記載
+- 課題のgit管理
 - コンピュータ系の雑談。書籍にはあんまりなくて、初心者はあんまり知らないけど経験者には自明みたいな情報がたくさんあると、うれしい。
 - 特にsurfaceの話が好きでした。
 - 丁寧な質問対応
@@ -144,6 +145,7 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 
 ## 自分の環境自慢
 - Win10 + WSL2 + Windows Terminal。シェルはfish on byobu. 開発はVSCode + Remote dev
+- Ubuntu 20.04。neovim
 - 環境構築がよくわかっていないので、もっと詳しく知りたい
 - 秋葉原までチャリで10分弱 なおパソコンはたいしたことないもよう
 - Mac + Xcode CommandLine tool + エディタはVScode 
@@ -154,6 +156,7 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 - Mac。シェルはbash?. 開発はVSCode
 - Win10 + WSL2 + Windows Terminal 開発はVSCode + Remote dev
 - win10 + wsl2. Vscodeつかってます。グラボ付きゲーミングPCとsurfacepro二台体制です。
+
 
 
 ## 雑談・情報共有
