@@ -131,6 +131,7 @@ GitHubのFork/PRの練習兼アンケートです。以下に自由に追記し�
 - Win10(ThinkPad) + WSL2。VSCode。
 - Vimを布教したい。
 - よくわかってないです。サーバー開発用に仮想環境を立てたりもしたんですが、よくわかってないです。環境構築が一番難しいまである
+- cmd + notepad (ウソですすみません)
 - Mac。シェルはbash?. 開発はVSCode
 - Win10 + WSL2 + Windows Terminal 開発はVSCode + Remote dev
 
